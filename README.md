@@ -1,4 +1,3 @@
 #Kokoa Clone 2022 Update
 
-CSS got so much better!
-first commit!
+HTML & CSS are so much fun!
